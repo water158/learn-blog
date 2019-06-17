@@ -1,5 +1,2 @@
 
-fist: test modify readme.md
----
-
-ttt
+touch dictory failed! need find reason!
